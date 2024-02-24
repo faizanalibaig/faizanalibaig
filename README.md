@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali Baig</h1>
 <h3 align="center">A dedicated mern stack developer from Islamabad, Pakistan.</h3>
-<img width="400" alt="coding" align="right" src="http://metinseven.com/">
 
 - 🔭 I’m currently working on **blog site**
 
