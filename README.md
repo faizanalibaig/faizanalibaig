@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faizan Ali Baig</h1>
+<h1 align="center">Hi 👋, I'm Faizan Ali</h1>
 <h3 align="center">A dedicated mern stack developer from Islamabad, Pakistan.</h3>
 
 - 🔭 I’m currently working on **blog site**
