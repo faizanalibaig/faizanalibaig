@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali Baig</h1>
 <h3 align="center">A dedicated mern stack developer from Islamabad, Pakistan.</h3>
-<img width="400" alt="coding" align="right" src="https://www.pinterest.com/pin/568790627928202477/"/>
+<img width="400" alt="coding" align="right" src="https://www.pinterest.com/pin/568790627928202477/">
 
 - 🔭 I’m currently working on **blog site**
 
 - 🌱 I’m currently learning **backend-development**
 
 - 👯 I’m looking to collaborate on **website**
-
-- 👨‍💻 All of my projects are available at [https://new-portfolio-pied-rho.vercel.app/](https://new-portfolio-pied-rho.vercel.app/)
 
 - 💬 Ask me about **mern stack**
 
