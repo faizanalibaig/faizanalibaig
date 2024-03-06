@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali</h1>
 <h3 align="center">A dedicated mern stack developer from Islamabad, Pakistan.</h3>
 
-- 🔭 I’m currently working on **blog site**
+- 🔭 I’m currently working on **alrighttech website**
 
 - 🌱 I’m currently learning **backend-development**
 
