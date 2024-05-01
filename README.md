@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **hackathon**
 
-- 💬 Ask me about **mern stack**
+- 💬 Ask me about **mern stack & nextjs**
 
 - 📫 How to reach me **riazfiaz6181@gmail.com**
 
