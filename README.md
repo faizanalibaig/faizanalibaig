@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **taxihub.uk site**
 
-- 🌱 I’m currently learning **backend-development**
+- 🌱 I’m currently learning **backend-development & animation**
 
 - 👯 I’m looking to collaborate on **hackathon**
 
