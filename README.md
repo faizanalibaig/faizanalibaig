@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali</h1>
 <h3 align="center">A dedicated mern stack developer from Islamabad, Pakistan.</h3>
 
-- 🔭 I’m currently working on **no project**
+- 🔭 I’m currently working on **erp system**
 
-- 🌱 I’m currently learning **animations**
+- 🌱 I’m currently learning **java swing and spring boot**
 
 - 👯 I’m looking to collaborate on **hackathon**
 
