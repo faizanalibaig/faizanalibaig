@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on erp system<br><br>🌱 I’m currently learning java swing and spring boot<br><br>👯 I’m looking to collaborate on hackathon<br><br>💬 Ask me about mern stack & nextjs<br><br>📫 How to reach me riazfiaz6181@gmail.com
+🔭 I’m currently working on erp system<br>🌱 I’m currently learning java swing and spring boot<br>👯 I’m looking to collaborate on hackathon<br>💬 Ask me about mern stack & nextjs<br>📫 How to reach me riazfiaz6181@gmail.com
 
 
 ## 🌐 Socials:
