@@ -6,11 +6,14 @@ Open to new opportunities in Software Business.
 Studying Computer Science at NUML - National University.
 Reach me at: riazfiaz6181@gmail.com
 
-🛠️ Skills
-Languages: C++, C#, Java, Javascript/Typescript.
-Frameworks & Libraries: MERN
-Tools & Platforms: Git/Github, Figma, Notion, Stack, Canva
-Databases: MySQL, PostgreSQL, MongoDB.
+faizanali = {
+    "title": "Software Engineer",
+    "interests": ["Full-Stack", "Backend", "Generative-AI", "DevOps"],
+    "languages": ["C++", "C#", "Java", "Javascript/Typescript"],
+    "technologies": ["React", "Nextjs", "Express", "Nestjs", "Swing"],
+    "tools": ["Git/Github", "Stack", "Notion", "Figma", "Canva"],
+    "databases":[ "MySQL", "PostgreSQL", "MongoDB"]
+}
 
 📬 Contact
 Email: riazfiaz@gmail.com
