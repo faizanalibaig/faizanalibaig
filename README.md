@@ -6,14 +6,18 @@ Open to new opportunities in Software Business.
 Studying Computer Science at NUML - National University.
 Reach me at: riazfiaz6181@gmail.com
 
-faizanali = {
-    "title": "Software Engineer",
-    "interests": ["Full-Stack", "Backend", "Generative-AI", "DevOps"],
-    "languages": ["C++", "C#", "Java", "Javascript/Typescript"],
-    "technologies": ["React", "Nextjs", "Express", "Nestjs", "Swing"],
-    "tools": ["Git/Github", "Stack", "Notion", "Figma", "Canva"],
-    "databases":[ "MySQL", "PostgreSQL", "MongoDB"]
-}
+```javascript
+const faizanAli = {
+  title: "Software Engineer",
+  interests: ["Full-Stack Development", "Backend Engineering", "Cyber Security", "DevOps"],
+  languages: ["C++", "C#", "Java", "JavaScript/TypeScript"],
+  technologies: ["React", "Next.js", "Express.js", "Nest.js", "Swing"],
+  tools: ["Git/GitHub", "Stack Overflow", "Notion", "Figma", "Canva"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  hobbies: [ "Learning new technologies", "Contributing to open source", "Building side projects"],
+  motto: "Write clean code, debug smarter!"
+};
+```
 
 📬 Contact
 Email: riazfiaz@gmail.com
