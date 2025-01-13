@@ -7,15 +7,13 @@ Studying Computer Science at NUML - National University.
 Reach me at: riazfiaz6181@gmail.com
 
 ```javascript
-const faizanAli = {
+faizanAli = {
   title: "Software Engineer",
   interests: ["Full-Stack Development", "Backend Engineering", "Cyber Security", "DevOps"],
   languages: ["C++", "C#", "Java", "JavaScript/TypeScript"],
   technologies: ["React", "Next.js", "Express.js", "Nest.js", "Swing"],
   tools: ["Git/GitHub", "Stack Overflow", "Notion", "Figma", "Canva"],
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  hobbies: [ "Learning new technologies", "Contributing to open source", "Building side projects"],
-  motto: "Write clean code, debug smarter!"
 };
 ```
 
